@@ -14,3 +14,7 @@ Data collected in a repository format can be used to automate alot of informatio
 
 
 If you find this repo useful feel free to fork and add to it or create a branch and create a pull request.
+
+# Ideas for use of data:
+
+* Programmaitcally Analyse which financial or public personality was first in recognizing Dash's unique feature set in relation to world geopolitical events.  The need for Digital Cash.
