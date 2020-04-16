@@ -17,4 +17,4 @@ If you find this repo useful feel free to fork and add to it or create a branch 
 
 # Ideas for use of data:
 
-* Programmaitcally Analyse which financial or public personality was first in recognizing Dash's unique feature set in relation to world geopolitical events.  The need for Digital Cash.
+* Programmatically Analyse which financial or public personality was first in recognizing Dash's unique feature set in relation to world geopolitical events.  The need for Digital Cash.
