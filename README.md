@@ -4,7 +4,7 @@ A Repository For Publicly Cataloging Dash (cryptocurrency) in the Financial Medi
 
 # Collaboration
 
-If you find links for Dash related content in the financial mainstream media (ie. not Dash funded orgs) you can create a pull request with a similar format/tags as ive already done.
+If you find links for Dash related content in the financial mainstream media (ie. not Dash funded orgs) you can create a pull request with JSON files with a similar format/tags as the existing articles.
 
 # Why collect this Data?
 
